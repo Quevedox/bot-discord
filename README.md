@@ -5,5 +5,6 @@ como se utiliza:
 
 !tts nombre
 
-
 !nombre
+
+el comando !help me falta arreglarlo
